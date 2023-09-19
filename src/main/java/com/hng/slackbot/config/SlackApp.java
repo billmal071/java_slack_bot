@@ -1,4 +1,4 @@
-package com.hng.slackbot;
+package com.hng.slackbot.config;
 
 import com.slack.api.bolt.AppConfig;
 import org.springframework.context.annotation.Bean;
